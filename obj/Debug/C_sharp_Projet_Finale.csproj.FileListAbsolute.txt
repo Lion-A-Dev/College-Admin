@@ -1,0 +1,17 @@
+C:\Users\Lion\source\repos\C_sharp_Projet_Finale\bin\Debug\C_sharp_Projet_Finale.exe.config
+C:\Users\Lion\source\repos\C_sharp_Projet_Finale\bin\Debug\C_sharp_Projet_Finale.exe
+C:\Users\Lion\source\repos\C_sharp_Projet_Finale\bin\Debug\C_sharp_Projet_Finale.pdb
+C:\Users\Lion\source\repos\C_sharp_Projet_Finale\obj\Debug\C_sharp_Projet_Finale.csproj.AssemblyReference.cache
+C:\Users\Lion\source\repos\C_sharp_Projet_Finale\obj\Debug\C_sharp_Projet_Finale.Properties.Resources.resources
+C:\Users\Lion\source\repos\C_sharp_Projet_Finale\obj\Debug\C_sharp_Projet_Finale.csproj.GenerateResource.cache
+C:\Users\Lion\source\repos\C_sharp_Projet_Finale\obj\Debug\C_sharp_Projet_Finale.csproj.CoreCompileInputs.cache
+C:\Users\Lion\source\repos\C_sharp_Projet_Finale\obj\Debug\C_sharp_Projet_Finale.exe
+C:\Users\Lion\source\repos\C_sharp_Projet_Finale\obj\Debug\C_sharp_Projet_Finale.pdb
+C:\Users\Lion\source\repos\C_sharp_Projet_Finale\obj\Debug\C_sharp_Projet_Finale.Inscription.resources
+C:\Users\Lion\source\repos\C_sharp_Projet_Finale\obj\Debug\C_sharp_Projet_Finale.Login.resources
+C:\Users\Lion\source\repos\C_sharp_Projet_Finale\obj\Debug\C_sharp_Projet_Finale.AjoutProgramme.resources
+C:\Users\Lion\source\repos\C_sharp_Projet_Finale\obj\Debug\C_sharp_Projet_Finale.SupprimerProgramme.resources
+C:\Users\Lion\source\repos\C_sharp_Projet_Finale\obj\Debug\C_sharp_Projet_Finale.ListerProgrammes.resources
+C:\Users\Lion\source\repos\C_sharp_Projet_Finale\obj\Debug\C_sharp_Projet_Finale.AjoutEtudiant.resources
+C:\Users\Lion\source\repos\C_sharp_Projet_Finale\obj\Debug\C_sharp_Projet_Finale.SupprimerEtudiant.resources
+C:\Users\Lion\source\repos\C_sharp_Projet_Finale\obj\Debug\C_sharp_Projet_Finale.ListerEtudiants.resources
